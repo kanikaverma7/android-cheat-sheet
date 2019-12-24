@@ -2,6 +2,11 @@
 Hey there! I tried to bring most of the new(ish) stuff at one place. Want to add something? You're most welcome! <br />
 Create a Pull request to add more content. <br />Thanks, much love!
 
+### Compose (Jetpack)
+https://developer.android.com/jetpack/compose<br />
+https://www.youtube.com/watch?v=dtm2h-_sNDQ<br />
+https://www.youtube.com/watch?v=Q9MtlmmN4Q0
+
 ### Coroutines - Kotlin
 https://kotlinlang.org/docs/reference/coroutines-overview.html<br />
 https://developer.android.com/kotlin/coroutines<br />
