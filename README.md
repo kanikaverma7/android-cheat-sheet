@@ -2,6 +2,11 @@
 Hey there! I tried to bring most of the new(ish) stuff at one place. Want to add something? You're most welcome! <br />
 Create a Pull request to add more content. <br />Thanks, much love!
 
+### Flow - Kotlin
+Handling backpressure gracefully<br />
+https://developer.android.com/reference/java/util/concurrent/Flow<br />
+https://codelabs.developers.google.com/codelabs/advanced-kotlin-coroutines/#0
+
 ### Compose (Jetpack)
 https://developer.android.com/jetpack/compose<br />
 https://www.youtube.com/watch?v=dtm2h-_sNDQ<br />
